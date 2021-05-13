@@ -1,5 +1,5 @@
 # Exécuter cadeau() pour lancer le jeu
-# Les couleurs ne fonctionnent pas sur tous les environnements.
+# Les couleurs ne fonctionnent pas sur tous les environnements (codé sur Pyzo).
 
 from random import randint
 
